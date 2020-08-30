@@ -1,6 +1,6 @@
 # Hackerrank-Certification-Python-Problem-Solving-Interview-Preparation
 
-This repository consist the solution of Hackerrank python problem solving soutions.
+This repository consist the solution of Hackerrank Python problem solving soutions.
 
 The Interview kit is divided in 14 parts:
 1) Warm-up challenges
